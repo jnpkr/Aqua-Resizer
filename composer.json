@@ -1,5 +1,5 @@
 {
-  "name": "syamilmj/aqua-resizer",
+  "name": "jnpkr/aqua-resizer",
   "description": "This small script will allow you to resize & crop WordPress images uploaded via the media uploader on the fly.",
   "keywords": ["image", "wordpress", "resize", "assets", "optimization"],
   "homepage": "https://github.com/syamilmj/Aqua-Resizer",
